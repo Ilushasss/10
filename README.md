@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>БериИДелай — аренда строительного инструмента в Кургане</title>
+<title>Бери и Делай — аренда строительного инструмента в Кургане</title>
 <meta name="description" content="БериИДелай — аренда строительного инструмента в Кургане почасово и посуточно. Скидка 10% за сутки.">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
